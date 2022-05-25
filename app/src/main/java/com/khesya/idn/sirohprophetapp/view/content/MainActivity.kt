@@ -10,6 +10,7 @@ import androidx.lifecycle.ViewModelProviders
 import com.khesya.idn.sirohprophetapp.R
 import com.khesya.idn.sirohprophetapp.model.ResponseMain
 import com.khesya.idn.sirohprophetapp.viewModel.ViewModelMain
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 

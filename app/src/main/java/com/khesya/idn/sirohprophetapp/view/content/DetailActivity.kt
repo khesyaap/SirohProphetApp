@@ -10,6 +10,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.RequestOptions
 import com.khesya.idn.sirohprophetapp.R
 import com.khesya.idn.sirohprophetapp.model.ResponseMain
+import kotlinx.android.synthetic.main.activity_detail.*
 
 class DetailActivity : AppCompatActivity() {
 
